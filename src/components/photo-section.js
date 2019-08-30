@@ -91,7 +91,7 @@ const styles = {
     alignItems: 'flex-start',
     paddingLeft: 10,
     paddingTop: 10,
-    paddingBottom: 5
+    paddingBottom: 5 
   }
 };
 
